@@ -15,7 +15,7 @@
         <component.name>openrtb-validator</component.name>
        <java.version>1.8</java.version>
        <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
-       <cucumber.version>1.2.4</cucumber.version>
+       <cucumber.version>1.2.5</cucumber.version>
        <spring.version>4.1.7.RELEASE</spring.version>
        <jackson.version>2.6.2</jackson.version>
        <resty.version>0.3.2</resty.version>
