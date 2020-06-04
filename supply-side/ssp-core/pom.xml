@@ -91,7 +91,7 @@
  </dependencies>
 
  <properties>
-  <jersey-version>1.4</jersey-version>
+  <jersey-version>1.19.4</jersey-version>
  </properties>
 
  <repositories>
